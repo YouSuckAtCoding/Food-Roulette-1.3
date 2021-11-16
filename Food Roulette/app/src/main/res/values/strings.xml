@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food Roulette</string>
+    <string name="button">Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tela_inicial_do_app">Tela Inicial do App</string>
+    <string name="proxima_tela">Proxima Tela</string>
+    <string name="Frag2Text">TextView</string>
+    <string name="nomecomida">NomeComida</string>
+    <string name="rodar_novamente">Rodar Novamente?</string>
+    <string name="retornar_ao_inicio">Retornar Ao Inicio</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+</resources>
